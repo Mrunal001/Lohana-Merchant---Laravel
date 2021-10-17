@@ -1,0 +1,36 @@
+List of City of Gujarat
+
+There is a list of cities and towns in Gujarat, In
+
+01. 	Ahmedabad 	
+02. 	Surat 	
+03. 	Vadodara 	
+04. 	Rajkot 	
+05. 	Bhavnagar 	
+06. 	Jamnagar 	
+07. 	Junagadh 	
+08. 	Gandhinagar
+09. 	Gandhidham 	
+10. 	Anand 	
+11. 	Navsari 	
+12. 	Morbi 	
+13. 	Nadiad 	
+14. 	Surendranagar 	
+15. 	Bharuch 	
+16. 	Mehsana 	
+17. 	Bhuj 	
+18. 	Porbandar 	
+19. 	Palanpur 	
+20. 	Valsad 	
+21. 	Vapi 	
+22. 	Gondal 	
+23. 	Veraval 	
+24. 	Godhara 	
+25. 	Patan 	
+26. 	Kalol, Gandhinagar 	
+27. 	Dahod 	
+28. 	Botad 	
+29. 	Amreli 	
+30. 	Deesa 	
+31. 	Jetpur 	
+    

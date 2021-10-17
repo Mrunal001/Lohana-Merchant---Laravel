@@ -1,0 +1,135 @@
+.delete_record_form{
+	float: right;
+}
+.alert-danger ul{
+	list-style-type: none ;
+	padding: 0px;
+    margin: 0px;
+}
+.alert-success p{
+	margin: 0px !important;
+}
+.forgot_password{
+	padding-left: 0px;
+}
+#agileits-sign-in-page .form-group{
+	margin-bottom: 0;
+}
+#agileits-sign-in-page select, #agileits-sign-in-page textarea, #agileits-sign-in-page input[type=file]{
+	margin-bottom: 15px;
+	outline: none;
+    border: 1px solid #086FDF;
+    color: #000;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.dataTable .btn-danger{
+	float: right;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: transparent;
+}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover{
+	background-color: transparent;
+}
+.navbar-nav>li>.dropdown-menu {
+    background-color: #191e21;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.dropdown-menu > li > a:hover{
+	background-color: transparent;
+}
+.navbar-nav a{
+	text-transform: uppercase;
+}
+.dropdown-menu > li > a{
+	padding: 0px;
+}
+.navbar-nav>li>a{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.label_business{
+	font-size: 16px;
+}
+.navbar-nav .dropdown-menu li{
+	padding: 15px;
+	padding-left: 35px;
+	padding-right: 35px;
+}
+.change_password{
+	border-bottom: 1px solid #fff;
+}
+.list li .list-left{
+	width: 40% !important;
+}
+.list li .list-right{
+	width: 30% !important;
+}
+span.business_category{
+	font-size: 16px;
+	color: #404040;
+	line-height: 28px;
+}
+#container .list li .title{
+	padding-bottom: 15px;
+}
+#container .list li .cityname{
+	line-height: 27px;
+}
+.add_business_btn{
+	outline: none;
+    padding: 10px 0;
+    background: #033b79;
+    border: none;
+    color: #fff;
+    font-size: 1em;
+    text-transform: uppercase;
+    width: 100%;
+    margin: 2em 0 0;
+    cursor: pointer;
+    border-radius: 3px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.add_business_btn:hover{
+	    background: #060e56;
+}
+.display_username{
+	text-transform: capitalize !important;
+}
+.no_data_found{
+	padding: 20px;
+    margin-top: 20px;
+    border: 1px solid #CCCCCC;
+}
+.registered_table {
+	padding-top: 30px;
+}
+@media (max-width: 1366px){
+	.show_pending_msg {
+	    width: 33%;
+	}
+}
+.show_pending_msg {
+	margin: 0 auto;
+}
+.show_pending_msg .alert{
+	margin-bottom: 0px;
+	border-radius: 0;
+}
+.agileinfo_signin{
+	box-shadow: none;
+}
+.trending-ads .biseller-column img{
+	height: 200px;
+}
+.nbs-flexisel-ul { width: 99999px; }
+.admin_box{
+	padding: 10px;
+}
+.ads_padd{
+	padding-top: 20px;
+}
